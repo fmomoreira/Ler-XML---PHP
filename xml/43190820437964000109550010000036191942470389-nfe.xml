@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" 
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe43190820437964000109550010000036191942470389" versao="4.00">
+            <ide>
+                <cUF>43</cUF>
+                <cNF>94247038</cNF>
+                <natOp>Venda de producao do estabelecimento</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>3619</nNF>
+                <dhEmi>2019-08-27T14:43:27-03:00</dhEmi>
+                <dhSaiEnt>2019-08-27T00:00:00-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>4313300</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>9</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>2</indPres>
+                <procEmi>0</procEmi>
+                <verProc>A00s17</verProc>
+            </ide>
+            <emit>
+                <CNPJ>20437964000109</CNPJ>
+                <xNome>Cks Ind De Plasticos E Aquec Ltda</xNome>
+                <xFant>Ks Aquecedores</xFant>
+                <enderEmit>
+                    <xLgr>Rua Italia</xLgr>
+                    <nro>677</nro>
+                    <xCpl>01</xCpl>
+                    <xBairro>Distrito Industrial I</xBairro>
+                    <cMun>4313300</cMun>
+                    <xMun>Nova Prata</xMun>
+                    <UF>RS</UF>
+                    <CEP>95320000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>5432420362</fone>
+                </enderEmit>
+                <IE>0850048028</IE>
+                <IM>42119008</IM>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>20810361000100</CNPJ>
+                <xNome>Globaltech Brasil Com Eletronico Eireli</xNome>
+                <enderDest>
+                    <xLgr>Rua Anice Cury Sabbag</xLgr>
+                    <nro>100</nro>
+                    <xBairro>Jardin Shangri-la</xBairro>
+                    <cMun>3504107</cMun>
+                    <xMun>Atibaia</xMun>
+                    <UF>SP</UF>
+                    <CEP>12948022</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>1144174034</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>190135773117</IE>
+            </dest>
+            <det nItem="2">
+                <prod>
+                    <cProd>209</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Coletor Solar De Piscina Tek 30 3,00x0,33x1,00m²</xProd>
+                    <NCM>84191910</NCM>
+                    <CFOP>6101</CFOP>
+                    <uCom>Unit</uCom>
+                    <qCom>165.0000</qCom>
+                    <vUnCom>40.00000</vUnCom>
+                    <vProd>6600.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Unit</uTrib>
+                    <qTrib>165.0000</qTrib>
+                    <vUnTrib>40.00000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>277.20</vTotTrib>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>40</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>6600.00</vBC>
+                            <pPIS>0.65</pPIS>
+                            <vPIS>42.90</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>6600.00</vBC>
+                            <pCOFINS>3.00</pCOFINS>
+                            <vCOFINS>198.00</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="1">
+                <prod>
+                    <cProd>208</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Coletor Solar De Piscina Tek 20 2,00x0,33x0,66m²</xProd>
+                    <NCM>84191910</NCM>
+                    <CFOP>6101</CFOP>
+                    <uCom>Unit</uCom>
+                    <qCom>60.0000</qCom>
+                    <vUnCom>26.64000</vUnCom>
+                    <vProd>1598.40</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Unit</uTrib>
+                    <qTrib>60.0000</qTrib>
+                    <vUnTrib>26.64000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>67.13</vTotTrib>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>40</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>1598.40</vBC>
+                            <pPIS>0.65</pPIS>
+                            <vPIS>10.39</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>1598.40</vBC>
+                            <pCOFINS>3.00</pCOFINS>
+                            <vCOFINS>47.95</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="3">
+                <prod>
+                    <cProd>215</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>Kit Travas (20 Unidades)</xProd>
+                    <NCM>84199010</NCM>
+                    <CEST>2804000</CEST>
+                    <CFOP>6101</CFOP>
+                    <uCom>Unit</uCom>
+                    <qCom>5.0000</qCom>
+                    <vUnCom>11.80000</vUnCom>
+                    <vProd>59.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>Unit</uTrib>
+                    <qTrib>5.0000</qTrib>
+                    <vUnTrib>11.80000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>3.61</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>0</orig>
+                            <CST>00</CST>
+                            <modBC>0</modBC>
+                            <vBC>59.00</vBC>
+                            <pICMS>12.00</pICMS>
+                            <vICMS>7.08</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>50</CST>
+                            <vBC>59.00</vBC>
+                            <pIPI>5.00</pIPI>
+                            <vIPI>2.95</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>59.00</vBC>
+                            <pPIS>0.65</pPIS>
+                            <vPIS>0.38</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>59.00</vBC>
+                            <pCOFINS>3.00</pCOFINS>
+                            <vCOFINS>1.77</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>59.00</vBC>
+                    <vICMS>7.08</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>8257.40</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>2.95</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>53.67</vPIS>
+                    <vCOFINS>247.72</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>8260.35</vNF>
+                    <vTotTrib>347.94</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>04002624000107</CNPJ>
+                    <xNome>Transportes Pratavera Eireli</xNome>
+                    <IE>0850030218</IE>
+                    <xEnder>Rodovia Rs 324 Km 4</xEnder>
+                    <xMun>Nova Prata</xMun>
+                    <UF>RS</UF>
+                </transporta>
+                <vol>
+                    <qVol>16</qVol>
+                    <esp>Unit</esp>
+                    <pesoL>508.000</pesoL>
+                    <pesoB>508.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>001</nFat>
+                    <vOrig>8260.35</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>8260.35</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2019-09-05</dVenc>
+                    <vDup>8260.35</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>99</tPag>
+                    <vPag>8260.35</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>null</infAdFisco>
+                <infCpl>Val Aprox Tributos R$: FED 347.94(4,21%),Est 578.02(7,00%) Fonte:IBPTProduto classificado com o codigo do NCM 84191910, ICMS isento Conf Livro I, Artigo 9º, Inciso 85 do RICMS. Valor Total de PIS R$ 53,67  Valor Total de Cofins R$ 247,72</infCpl>
+            </infAdic>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+                <Reference URI="#NFe43190820437964000109550010000036191942470389">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                    <DigestValue>FNzm0A5HBZlNSmFYvYwAXlKDQC8=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>klHRxfl+j/0SFOB4AVqK6Ibpi4xzCyjzQ03MelVujeMSQwbOv1YQzFl6xcmCQnVOoHJfdtTyN0qw 4MKrHN3Ag9/SXp8qs34D6Z42ScEk91C/ZjZyd4a75SZRW7CLeaAkSjCOZ54VYr+1ce2twplYnKgf G1uzZooHQDU/bk7I5K0rT7eUcxb2+ovJkg521KsYl3PzPkn40NFqY4j8Z+We+W7ucz1i2cDgyCYj zUGhPlYWIEwzAcOm4F1tw8dkfNc7xOXW3mHLYjlhtp1M33N6Z/hA1HEqPqJx3vF32pU2elXzZIAA FU7Kx/DT7eNAesnRsdzUTu6vOZvZhlqMSQrYJw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIH6TCCBdGgAwIBAgIIcUUZBwk6RnIwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN dWx0aXBsYTAeFw0xOTA3MDkxNTU2MjNaFw0yMDA3MDgxNTU2MjNaMIIBBTELMAkGA1UEBhMCQlIx EzARBgNVBAoTCklDUC1CcmFzaWwxNDAyBgNVBAsTK0F1dG9yaWRhZGUgQ2VydGlmaWNhZG9yYSBS YWl6IEJyYXNpbGVpcmEgdjIxEjAQBgNVBAsTCUFDIFNPTFVUSTEbMBkGA1UECxMSQUMgU09MVVRJ IE11bHRpcGxhMRcwFQYDVQQLEw4wMDk5MTU4OTAwMDEzNzEaMBgGA1UECxMRQ2VydGlmaWNhZG8g UEogQTExRTBDBgNVBAMTPENLUyBJTkRVU1RSSUEgREUgUExBU1RJQ09TIEUgQVFVRUNFRE9SRVMg TFREQToyMDQzNzk2NDAwMDEwOTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK1RoQA/ ArxAlfQRcKK85rYS6zkVE6GGeiBQrbCia+1jHJ59aeJJ8HLQ98Mj15zSo4LvRFxyBaHIqKRtPlNH v/qgd1gyUbiiB5Jz9MYg+WlB+PxLyaFGR9/s2A3JNvOdJNhvv/IDFUUEM45r1ShZyp6ImIi99Q6e a6BqPeBGriX+TXufrDsGr0/8zERYQnW/IdgFNxvIi+bOYnbRLM8wyrwpmJT7KmoC/bkxdgk3Aa+y Ef/Js+8TV8Cq856sfxITQzol110VOPa0QaN7YBdUbHrfkwPyaugssGAHF2UuRQLR9KWad9lNK3+2 nl1a+/hXIefKLnGvplSZKxCeH8Cj0GsCAwEAAaOCAtQwggLQMFQGCCsGAQUFBwEBBEgwRjBEBggr BgEFBQcwAoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBs YS12MS5wN2IwHQYDVR0OBBYEFDgZCu3IlGAT2zLago6xDMzGkWyqMAkGA1UdEwQCMAAwHwYDVR0j BBgwFoAUNa4xFPZe0npPWP40qBpnlwrEmwcwXgYDVR0gBFcwVTBTBgZgTAECASYwSTBHBggrBgEF BQcCARY7aHR0cHM6Ly9jY2QuYWNzb2x1dGkuY29tLmJyL2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0 aXBsYS5wZGYwgd4GA1UdHwSB1jCB0zA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIv bGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRp LmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXYxLmNybDBQoE6gTIZKaHR0cDovL3JlcG9z aXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0FDU09MVVRJL2FjLXNvbHV0aS1tdWx0aXBsYS12 MS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBvAYD VR0RBIG0MIGxgRxmYWJpYW5vQGtzYXF1ZWNlZG9yZXMuY29tLmJyoCMGBWBMAQMCoBoTGENBU1NJ QU5BIFJPTkNBVFRPIEJPTFpBTqAZBgVgTAEDA6AQEw4yMDQzNzk2NDAwMDEwOaA4BgVgTAEDBKAv Ey0yOTA3MTk3OTkzODg4MDkwMDkxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgFwYFYEwBAweg DhMMMDAwMDAwMDAwMDAwMA0GCSqGSIb3DQEBCwUAA4ICAQAJKCh9u1VjeS332ucQGVcA+A6rylTR xK6Ov6f3FiZh6yJSk/V4eTHU62+2cikoqiBJnrgAhwRADK2Twt9zGngRkjS6/lAHWYmR6m56cYHB 0VOm3w62ou/F8wW/uf+Wk2/dN0yimSxvHEri9Qd3nhPC6+HjaD9MOaq8vpoWdKuLR7USg07M5rnd kic/CQbtiEEw5MlQxdrlUioC52cqMogXUCuC2h6HoLHI6DoFVOjIio+9XRfC5N02G+Aqb0zTwAVc b4LTLYf6vjLl5Ju6Pdfv4CMZMZG8OdQoleNOPoS0IsMuyK5DAT06SbFIuQ8aD8TSzKyyA3Ph0aRV 6BI+Z48z6kp0qxEt8U+L/aa0Kh3caFFlRkg/Q33W6iYqPi77TGkoT+Kj4OoGN3+6QMT0TLFmZ5K4 0MPw9KUuA/VVDCl8Wax+VfBguX2CvWO4dNA4zuzCzm04jdul2qeDcQqr7YCYSDZOi8oyoWytyJLK IGI/gLI8TstED/LVkL/sBu9Pmta64bIUWlHcKRfVdTFr7Q7cHgUL1tmrdzqnpfUneRddxmcs4ST9 /uYnTcKybFA0eZOYMW0E25WSex7D2GdRs5jdwRBwFPDlgiEo9DoabXxCWGOm+fpl9JftYBp9h3li 8E7ZMpyjvxkaBEbqlYugoh7RVlQK+TiO6Rtk3hoT1QW1qw==</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>RS201908091113</verAplic>
+            <chNFe>43190820437964000109550010000036191942470389</chNFe>
+            <dhRecbto>2019-08-27T14:43:33-03:00</dhRecbto>
+            <nProt>143190157577033</nProt>
+            <digVal>FNzm0A5HBZlNSmFYvYwAXlKDQC8=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
