@@ -1,0 +1,169 @@
+<cteProc versao="3.00" 
+    xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte Id="CTe35190804884082000135570000281249741281249743" versao="3.00">
+            <ide>
+                <cUF>35</cUF>
+                <cCT>28124974</cCT>
+                <CFOP>6353</CFOP>
+                <natOp>Servico de Transporte</natOp>
+                <mod>57</mod>
+                <serie>0</serie>
+                <nCT>28124974</nCT>
+                <dhEmi>2019-08-06T17:00:55-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>3</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>1</verProc>
+                <cMunEnv>3550308</cMunEnv>
+                <xMunEnv>SAO PAULO</xMunEnv>
+                <UFEnv>SP</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>3504107</cMunIni>
+                <xMunIni>ATIBAIA</xMunIni>
+                <UFIni>SP</UFIni>
+                <cMunFim>2927408</cMunFim>
+                <xMunFim>SALVADOR</xMunFim>
+                <UFFim>BA</UFFim>
+                <retira>1</retira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>0</toma>
+                </toma3>
+            </ide>
+            <compl>
+                <xObs>[  NUMERO OPERACIONAL: 18119500071944 / 00119500051222  ]    -    Valor aproximado dos tributos (13.45%)  R$ 7.36  -  fonte IBPT</xObs>
+            </compl>
+            <emit>
+                <CNPJ>04884082000135</CNPJ>
+                <IE>149744148111</IE>
+                <xNome>JADLOG LOGISTICA S.A</xNome>
+                <enderEmit>
+                    <xLgr>AV JORNALISTA PAULO ZINGG</xLgr>
+                    <nro>810</nro>
+                    <xBairro>JARDIM JARAGUA (SAO DOMINGOS)</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>SAO PAULO</xMun>
+                    <CEP>05157030</CEP>
+                    <UF>SP</UF>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>20810361000100</CNPJ>
+                <IE>190135773117</IE>
+                <xNome>GLOBALTECH BRASIL COMERCIO DE ELETRONICO</xNome>
+                <enderReme>
+                    <xLgr>RUA MARIA APPARECIDA BUHLER 57</xLgr>
+                    <nro>-</nro>
+                    <xBairro>JARDIM SHANGRIL</xBairro>
+                    <cMun>3504107</cMun>
+                    <xMun>ATIBAIA</xMun>
+                    <CEP>12948030</CEP>
+                    <UF>SP</UF>
+                </enderReme>
+            </rem>
+            <dest>
+                <CPF>13284924515</CPF>
+                <xNome>GILMAR GOMER DA CRUZ</xNome>
+                <enderDest>
+                    <xLgr>RUA COMENDADOR PEREIRA DA SILVA 174 - APTO 704</xLgr>
+                    <nro>-</nro>
+                    <xBairro>DANIEL LISBOA</xBairro>
+                    <cMun>2927408</cMun>
+                    <xMun>SALVADOR</xMun>
+                    <CEP>40283040</CEP>
+                    <UF>BA</UF>
+                </enderDest>
+            </dest>
+            <vPrest>
+                <vTPrest>54.73</vTPrest>
+                <vRec>54.73</vRec>
+                <Comp>
+                    <xNome>FRETE VALOR</xNome>
+                    <vComp>51.26</vComp>
+                </Comp>
+                <Comp>
+                    <xNome>ADVALOREM</xNome>
+                    <vComp>3.47</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS00>
+                        <CST>00</CST>
+                        <vBC>54.73</vBC>
+                        <pICMS>7.00</pICMS>
+                        <vICMS>3.83</vICMS>
+                    </ICMS00>
+                </ICMS>
+            </imp>
+            <infCTeNorm>
+                <infCarga>
+                    <vCarga>525.00</vCarga>
+                    <proPred>Material Diverso</proPred>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO BRUTO</tpMed>
+                        <qCarga>0.7000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO CUBADO</tpMed>
+                        <qCarga>0.7000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>VOLUME</tpMed>
+                        <qCarga>1.0000</qCarga>
+                    </infQ>
+                </infCarga>
+                <infDoc>
+                    <infNFe>
+                        <chave>35190820810361000100550000000058421873511757</chave>
+                    </infNFe>
+                </infDoc>
+                <infModal versaoModal="3.00">
+                    <rodo>
+                        <RNTRC>11977325</RNTRC>
+                    </rodo>
+                </infModal>
+            </infCTeNorm>
+        </infCte>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#CTe35190804884082000135570000281249741281249743">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>GazQJjaDWBe6oOTwUYZqrp5Z2sE=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>OlMM+mRvsDH7dAcgrsyBa89V5+tWUn7X/9cMu66DZq9iyDNq0eh+OgOtDP4lmvbH3W+MSJNmi97R 8mFcL7rpuNUNu7/luiSepbyBAczAhplC1o2VlZrwQignC4zi2mci9tMTY/JmfFUsneDS2X76wu0j h66vnDEtDlvJSg+94RyeiSHq+uW+PixhpTOTnCJH6qVhvMnOqbc0b93nWiPXr1jAr1e/2jmjcxbt vbkfx2a/RX0SaO/Xm8Kuj+yY3B11BntnsQG4GtPyWcKezhs3DAeJrahbnj2AyEsB9BzdN05sePdo YGlCS1gwucSDkevUhvUnFaFZfsuhlcUGL9xXGQ==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIIJjCCBg6gAwIBAgIIUKxI6VSf9BQwDQYJKoZIhvcNAQELBQAwcjELMAkGA1UEBhMCQlIxEzAR BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs IGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UEAxMNQUMgT05MSU5FIFJGQjAeFw0xOTA0MTYxNjQwMjBa Fw0yMDA0MTUxNjQwMjBaMIHtMQswCQYDVQQGEwJCUjELMAkGA1UECAwCU1AxEjAQBgNVBAcMCVNB TyBQQVVMTzETMBEGA1UECgwKSUNQLUJyYXNpbDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNl aXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLDA1SRkIgZS1DTlBKIEExMREwDwYD VQQLDAhBUiBDVU5IQTEXMBUGA1UECwwOMTkxMTYzOTAwMDAxOTgxLDAqBgNVBAMMI0pBRExPRyBM T0dJU1RJQ0EgUyBBOjA0ODg0MDgyMDAwMTM1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC AQEA0utKUhrTcSXlXWgXGLnHc/eH3QgPF8scjZlK17JkT2mgX3XvHc+EouLnopvxM4arMmHbb+cN XQlbkcqgsHfuUPMIBU8x8EEQXPCQ5mwkDSHFK0VXYjCKd31YkhKuYjItTO9NkkjAgmpcrj0+Jjvh m7pKiU/fOitRUDxWKMXzLAAK4iIdTQJJCsLpxiK2zummxAvYay8NcLNjaHDt/4QM/gBu7+rsXVsw g7XnQFoXx9+AES383kymTSPwcyZNr9DRs18xQjM6uY5PtMrqk49f75p3D/+A53hA06Fy5uTRcvsF Idn940G/4SoR4S7OFeIRRtDEqH4pP3NU3OUK909YXwIDAQABo4IDQjCCAz4wgaEGCCsGAQUFBwEB BIGUMIGRMFwGCCsGAQUFBzAChlBodHRwOi8vaWNwLWJyYXNpbC52cGtpLnZhbGlkY2VydGlmaWNh ZG9yYS5jb20uYnIvYWMtb25saW5lcmZiL2FjLW9ubGluZXJmYnYyLnA3YjAxBggrBgEFBQcwAYYl aHR0cDovL29jc3AudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5icjAJBgNVHRMEAjAAMB8GA1UdIwQY MBaAFJGadowrqJMYmJh6A+TL7LWwGSf/MHUGA1UdIARuMGwwagYGYEwBAgE3MGAwXgYIKwYBBQUH AgEWUmh0dHA6Ly9pY3AtYnJhc2lsLnZwa2kudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy1v bmxpbmVyZmIvZHBjLWFjLW9ubGluZXJmYi5wZGYwggEGBgNVHR8Egf4wgfswVaBToFGGT2h0dHA6 Ly9pY3AtYnJhc2lsLnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtb25saW5lcmZiL2xjci1h Yy1vbmxpbmVyZmJ2Mi5jcmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsMi52YWxpZGNlcnRpZmlj YWRvcmEuY29tLmJyL2FjLW9ubGluZXJmYi9sY3ItYWMtb25saW5lcmZidjIuY3JsMEqgSKBGhkRo dHRwOi8vcmVwb3NpdG9yaW8uaWNwYnJhc2lsLmdvdi5ici9sY3IvVkFMSUQvbGNyLWFjLW9ubGlu ZXJmYnYyLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwME MIG7BgNVHREEgbMwgbCBG3BlZHJvLmNvbmRpbmlAamFkbG9nLmNvbS5icqA4BgVgTAEDBKAvBC0y NzA2MTk3NzI5MDg1MDkyODg0MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgIwYFYEwBAwKgGgQY QlJVTk8gTUFaWk9OSSBUT1JUT1JFTExPoBkGBWBMAQMDoBAEDjA0ODg0MDgyMDAwMTM1oBcGBWBM AQMHoA4EDDAwMDAwMDAwMDAwMDANBgkqhkiG9w0BAQsFAAOCAgEAnMdheaBHunUwm8C/Ib4Syjk5 DZQ3z9jZY4V+o5W5OF2AsABFtrmpdfgu13Zqri1H4ZG5GZ858/zLidlWUT/9AN6eYTq8lvIy6yhd uiIMvxFsK34G7kSPh9kJUh9/9NbYe1PJz+vFeVTkcX802QXywzgcKu3UnFlgw3598g/5A7dV+0D7 67ILGrmyYEj4yLWJbyox3DVjNuDx4zdTpiCPIiOTqXT3HmLCyziVks8mFSB23uVZ8zxMmkATIxtI q8lB9nrnxfgr+G0p40LO3DLUsSQnmevAFPDigtYBH9b3lwNGslbTgcTYtWbqb0VYVvs86fb4k9eR MaMA5sRPvqaCcUzqS9GCoj0thrUxod1M7h4mSPMxuHUY8tl40FtOrCdcGIQurkVBGY8p18m4Qvkl vAn2G3uebf6qGEbydDzM5X31L8WXC7rjSzl+b8x2cqTE4U/S/ibwjuUuoN2TNVaifdxw21pqOZsz PTr9GE+XB/IBTSHvVbGEKa4O4A8IOR5hdJL+8/Zrk3Nl4xBvmV3o6l4kxpD9NvddpKGXGdIFJUPl 2DORbeB4f5YG/bSAZfPEoGrDuFCTEB3V4zgRqrDc8VmLNpqcUdYS1cB1sKGLHDutZjE5cM/QTt4a W8GcnIdOvOPDRYf0XygpXXi//1rNZK7O37ElpNZd+jb95hz60Ew=</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP-CTe-30-01-2019</verAplic>
+            <chCTe>35190804884082000135570000281249741281249743</chCTe>
+            <dhRecbto>2019-08-06T17:00:57-03:00</dhRecbto>
+            <nProt>135191543992333</nProt>
+            <digVal>GazQJjaDWBe6oOTwUYZqrp5Z2sE=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>
